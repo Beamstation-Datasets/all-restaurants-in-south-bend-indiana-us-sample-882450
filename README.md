@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 375 records |
 | Free sample size | 37 records (9.87%) |
-| Last export | 2026-04-07T10:37:44.054093+00:00 |
+| Last export | 2026-04-14T10:28:19.525319+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-south-bend-indiana-us-sample-882450/releases/download/sample-latest/beamstation_882450_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
