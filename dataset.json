@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering South Bend, Indiana with a population of over 103k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in South Bend, Indiana, US",
-  "export_job_id": "b22b5146-87e1-40c9-bfb1-2d61cdce5789",
+  "export_job_id": "ce86ba36-3334-44b1-9b82-d74799d515b6",
   "github_org": "Beamstation-Datasets",
   "id_short": 882450,
   "location_name": "South Bend",
@@ -18,5 +18,5 @@
   "sample_sha256": "bfdc25ea172b78ba527219e3f36e17e98160b99a4e1f75913e0424b658bf1394",
   "sample_size_bytes": 133779,
   "total_records": 375,
-  "updated_at": "2026-04-07T10:37:44.054093+00:00"
+  "updated_at": "2026-04-14T10:28:19.525319+00:00"
 }
