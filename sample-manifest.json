@@ -1,12 +1,12 @@
 {
-  "export_job_id": "329a9679-df91-4eb8-8907-6fbdf4266c76",
+  "export_job_id": "b0c0ffd5-d740-4541-b4e0-d9469283691c",
   "id_short": 882450,
-  "published_at": "2026-04-21T19:55:29Z",
+  "published_at": "2026-04-28T19:32:05Z",
   "repo_name": "all-restaurants-in-south-bend-indiana-us-sample-882450",
   "sample_asset_name": "beamstation_882450_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/882450/beamstation_882450_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_records": 34,
-  "sample_sha256": "a61062dfa5332ebe9d74a7bff39df9b1fb4bef90862b9fbebb38a1d5dd9bafa2",
-  "sample_size_bytes": 125259,
-  "total_records": 347
+  "sample_records": 37,
+  "sample_sha256": "28d66d15079d0672ce5135224093018c8af6b09533b733a9df8f7d21c9902e88",
+  "sample_size_bytes": 126961,
+  "total_records": 378
 }
